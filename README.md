@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/github/PlutoniumProphet/uk-value-added-tax-deductor.svg?branch=master)](https://travis-ci.com/github/PlutoniumProphet/uk-value-added-tax-deductor)
+
 # uk-value-added-tax-deductor
 Simple tool for removing the amount of UK VAT applied to a total receipt. 
 Over-engineered to explore Python's ArgParse library in a little detail. 
